@@ -1,5 +1,6 @@
 {
   "adobe-air-sdk": "caskroom/cask",
+  "chronograf": "caskroom/cask",
   "cmucl": "caskroom/cask",
   "eventstore": "caskroom/cask",
   "grads": "caskroom/cask",
